@@ -22,7 +22,7 @@ We can visualize our data as a table using [DataTables](https://datatables.net/)
 
 ```yaml table
 data: data/cars.csv
-width: 600
+width: 800
 order:
   - [3, 'desc']
 columns:
